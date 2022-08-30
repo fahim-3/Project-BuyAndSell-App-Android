@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "969573807198",
+    "firebase_url": "https://ibuyandsell-5c039.firebaseio.com",
+    "project_id": "ibuyandsell-5c039",
+    "storage_bucket": "ibuyandsell-5c039.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969573807198:android:12608d42bcb5b023",
+        "android_client_info": {
+          "package_name": "com.example.fahim.ibuyandsell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969573807198-j84v0d9sslg6a3pd7b99frle3ecncvq9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fahim.ibuyandsell",
+            "certificate_hash": "0a3561429137d2cc340cfd0a645ec2aa50503d8c"
+          }
+        },
+        {
+          "client_id": "969573807198-3q619fe4b6kh8lh2f9akud3kaph8lppe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcwp2BebGrXA4TxvE8fwIKZ8L6fYxxyMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969573807198-3q619fe4b6kh8lh2f9akud3kaph8lppe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
